@@ -1,3 +1,9 @@
 [submodule "dependencies/repo"]
 	path = dependencies/repo
 	url = https://github.com/Sareetas/COMP_Project.git
+[submodule "COMP_Project"]
+	path = COMP_Project
+	url = https://github.com/Frosk-Kristian/COMP6002-Group10-Project.git
+[submodule "Desktop/COMP_Project"]
+	path = Desktop/COMP_Project
+	url = https://github.com/Frosk-Kristian/COMP6002-Group10-Project.git
